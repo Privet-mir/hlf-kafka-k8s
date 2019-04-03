@@ -1,0 +1,11 @@
+ord:
+  type: solo
+  mspID: OrdererMSP
+
+secrets:
+  ord:
+    cert: educhain--ord0-idcert
+    key: educhain--ord0-idkey
+    caCert: educhain--ord-cacert
+  genesis: educhain--genesis
+  adminCert: educhain--ord-admincert

@@ -1,0 +1,16 @@
+apiVersion: v1
+description: Hyperledger Fabric Orderer chart
+name: orderer
+version: 1.2.5
+appVersion: 1.4.0
+keywords:
+  - blockchain
+  - hyperledger
+  - fabric
+home: http://hyperledger-fabric.readthedocs.io
+sources:
+  - https://github.com/hyperledger/fabric
+maintainers:
+  - name: kmindz
+    email: mustafa@kmindz.in
+icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png
